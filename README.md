@@ -23,7 +23,7 @@ technology, turning ideas into code, and learning how things work behind the sce
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshaay.18)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrprison.18@gmail.com)
-
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/Akshay_M_P)
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
