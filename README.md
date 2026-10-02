@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Akshay.M.p 👋</h1>
+<h1 align="center">Hello! I'm Akshay 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=21&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=I+code.+I+binge-watch.+I+repeat." alt="Typing SVG" />
